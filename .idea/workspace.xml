@@ -2,24 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="402e157b-0565-420a-a38f-3db3b2fafbde" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/GameObject/GameSprite/Ball/ball.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Game/game.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/GameObject/GameSprite/Player/player.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Object/ZCamera/zCamera.js" />
-      <change type="DELETED" beforePath="C:\Programming\2015webgame\asdf.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Programming\2015webgame\asdf2.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Programming\2015webgame\ball.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Programming\2015webgame\camera.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Programming\2015webgame\game.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Programming\2015webgame\index.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Programming\2015webgame\index2.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Programming\2015webgame\player.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Programming\2015webgame\pos.js" afterPath="" />
-      <change type="MOVED" beforePath="C:\Programming\2015webgame\background.png" afterPath="$PROJECT_DIR$/Resources/background.png" />
-      <change type="MOVED" beforePath="C:\Programming\2015webgame\enemy.png" afterPath="$PROJECT_DIR$/Resources/enemy.png" />
-      <change type="MOVED" beforePath="C:\Programming\2015webgame\player.png" afterPath="$PROJECT_DIR$/Resources/player.png" />
-      <change type="MOVED" beforePath="C:\Programming\2015webgame\pos.js" afterPath="$PROJECT_DIR$/Object/zPos.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/helloworld.html" afterPath="$PROJECT_DIR$/helloworld.html" />
+      <change type="DELETED" beforePath="C:\Programming\2015webgame\helloworld.html" afterPath="" />
+      <change type="MOVED" beforePath="C:\Programming\2015webgame\Game\game.js" afterPath="$PROJECT_DIR$/Scripts/game.js" />
+      <change type="MOVED" beforePath="C:\Programming\2015webgame\Object\GameObject\GameSprite\Ball\ball.js" afterPath="$PROJECT_DIR$/Scripts/Object/GameObject/GameSprite/Ball/ball.js" />
+      <change type="MOVED" beforePath="C:\Programming\2015webgame\Object\GameObject\GameSprite\Player\player.js" afterPath="$PROJECT_DIR$/Scripts/Object/GameObject/GameSprite/Player/player.js" />
+      <change type="MOVED" beforePath="C:\Programming\2015webgame\Object\GameObject\GameSprite\gameSprite.js" afterPath="$PROJECT_DIR$/Scripts/Object/GameObject/GameSprite/gameSprite.js" />
+      <change type="MOVED" beforePath="C:\Programming\2015webgame\Object\GameObject\GameText\gameText.js" afterPath="$PROJECT_DIR$/Scripts/Object/GameObject/GameText/gameText.js" />
+      <change type="MOVED" beforePath="C:\Programming\2015webgame\Object\GameObject\gameObject.js" afterPath="$PROJECT_DIR$/Scripts/Object/GameObject/gameObject.js" />
+      <change type="MOVED" beforePath="C:\Programming\2015webgame\Object\ZCamera\zCamera.js" afterPath="$PROJECT_DIR$/Scripts/Object/ZCamera/zCamera.js" />
+      <change type="MOVED" beforePath="C:\Programming\2015webgame\Object\zPos.js" afterPath="$PROJECT_DIR$/Scripts/Object/zPos.js" />
+      <change type="MOVED" beforePath="C:\Programming\2015webgame\Object\zSize.js" afterPath="$PROJECT_DIR$/Scripts/Object/zSize.js" />
+      <change type="MOVED" beforePath="C:\Programming\2015webgame\Tools\drawTool.js" afterPath="$PROJECT_DIR$/Scripts/Tools/drawTool.js" />
+      <change type="MOVED" beforePath="C:\Programming\2015webgame\Tools\imageTool.js" afterPath="$PROJECT_DIR$/Scripts/Tools/imageTool.js" />
+      <change type="MOVED" beforePath="C:\Programming\2015webgame\Tools\keyTool.js" afterPath="$PROJECT_DIR$/Scripts/Tools/keyTool.js" />
+      <change type="MOVED" beforePath="C:\Programming\2015webgame\define.js" afterPath="$PROJECT_DIR$/Scripts/define.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="2015webgame.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,7 +39,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="keyTool.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tools/keyTool.js">
+        <entry file="file://$PROJECT_DIR$/Scripts/Tools/keyTool.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
@@ -53,7 +51,7 @@
         </entry>
       </file>
       <file leaf-file-name="gameText.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Object/GameObject/GameText/gameText.js">
+        <entry file="file://$PROJECT_DIR$/Scripts/Object/GameObject/GameText/gameText.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
@@ -64,18 +62,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gameObject.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Object/GameObject/gameObject.js">
+      <file leaf-file-name="gameObject.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scripts/Object/GameObject/gameObject.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18601398">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="imageTool.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tools/imageTool.js">
+        <entry file="file://$PROJECT_DIR$/Scripts/Tools/imageTool.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
@@ -87,7 +85,7 @@
         </entry>
       </file>
       <file leaf-file-name="drawTool.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tools/drawTool.js">
+        <entry file="file://$PROJECT_DIR$/Scripts/Tools/drawTool.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
@@ -99,7 +97,7 @@
         </entry>
       </file>
       <file leaf-file-name="define.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/define.js">
+        <entry file="file://$PROJECT_DIR$/Scripts/define.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
@@ -110,8 +108,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.44250363">
+              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="game.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Game/game.js">
+        <entry file="file://$PROJECT_DIR$/Scripts/game.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-13.678572">
               <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
@@ -120,18 +128,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zPos.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Object/zPos.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="zCamera.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Object/ZCamera/zCamera.js">
+        <entry file="file://$PROJECT_DIR$/Scripts/Object/ZCamera/zCamera.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-4.071429">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -141,7 +139,7 @@
         </entry>
       </file>
       <file leaf-file-name="gameSprite.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Object/GameObject/GameSprite/gameSprite.js">
+        <entry file="file://$PROJECT_DIR$/Scripts/Object/GameObject/GameSprite/gameSprite.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
@@ -202,6 +200,7 @@
         <option value="$PROJECT_DIR$/Object/zPos.js" />
         <option value="$PROJECT_DIR$/Game/game.js" />
         <option value="$PROJECT_DIR$/Object/ZCamera/zCamera.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -271,167 +270,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tools" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Object" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Object" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ZCamera" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Object" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GameObject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Object" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GameObject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GameText" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Object" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GameObject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GameSprite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Object" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GameObject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GameSprite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Player" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Object" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GameObject" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GameSprite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ball" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2015webgame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Game" />
+              <option name="myItemId" value="Scripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -446,11 +285,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Programming\2015webgame\js" />
       <recent name="C:\Programming\2015webgame\Tools" />
       <recent name="C:\Programming\2015webgame\Game" />
       <recent name="C:\Programming\2015webgame\Resources" />
       <recent name="C:\Programming\2015webgame\Object\GameObject\Sprite\Enemy" />
-      <recent name="C:\Programming\2015webgame\Object\GameObject\Sprite\Player" />
     </key>
   </component>
   <component name="RunManager">
@@ -502,9 +341,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.247782" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.247782" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -562,7 +401,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Object/zSize.js">
+    <entry file="file://$PROJECT_DIR$/Scripts/Object/zSize.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
@@ -572,15 +411,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/helloworld.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7142856">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object/GameObject/GameSprite/Player/player.js">
+    <entry file="file://$PROJECT_DIR$/Scripts/Object/GameObject/GameSprite/Player/player.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.392857">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
@@ -588,7 +419,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Object/GameObject/GameSprite/Ball/ball.js">
+    <entry file="file://$PROJECT_DIR$/Scripts/Object/GameObject/GameSprite/Ball/ball.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.7142856">
           <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
@@ -596,7 +427,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Object/zPos.js">
+    <entry file="file://$PROJECT_DIR$/Scripts/Object/zPos.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
@@ -604,15 +435,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game/game.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.678572">
-          <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object/GameObject/GameSprite/gameSprite.js">
+    <entry file="file://$PROJECT_DIR$/Scripts/Object/GameObject/GameSprite/gameSprite.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="71" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
@@ -622,25 +445,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Object/ZCamera/zCamera.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.071429">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/define.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/drawTool.js">
+    <entry file="file://$PROJECT_DIR$/Scripts/Tools/drawTool.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
@@ -650,7 +455,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/imageTool.js">
+    <entry file="file://$PROJECT_DIR$/Scripts/Tools/imageTool.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
@@ -660,17 +465,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/keyTool.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Object/GameObject/GameText/gameText.js">
+    <entry file="file://$PROJECT_DIR$/Scripts/Object/GameObject/GameText/gameText.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="68" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="68" />
@@ -680,10 +475,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Object/GameObject/gameObject.js">
+    <entry file="file://$PROJECT_DIR$/Scripts/Object/GameObject/gameObject.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18601398">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Object/ZCamera/zCamera.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.071429">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Tools/keyTool.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.678572">
+          <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/define.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44250363">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
           <folding />
         </state>
       </provider>
