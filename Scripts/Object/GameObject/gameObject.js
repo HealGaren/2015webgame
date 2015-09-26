@@ -17,10 +17,10 @@ GameObject.prototype.isCollision = function (otherObj) {
     );
 };
 
-GameObject.prototype.draw = function (){
-    console.log('draw :: this is default gameObject!');
-};
-
 GameObject.prototype.update = function (){
     console.log('update :: this is default gameObject!');
+};
+
+GameObject.prototype.draw = function (){
+    console.log('draw :: this is default gameObject!');
 };

@@ -5,6 +5,7 @@
 var define = {
     mapHeight: 1000,
     mapWidth: 2000,
+    FPS: 60,
     gameState: {
         READY: 0,
         GAME: 1,
